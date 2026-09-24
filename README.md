@@ -1,8 +1,5 @@
 # COMP50069-MicroClimate-Nursery
 ESP32 Automated Commercial Micro-Climate Nursery
-# Automated Commercial Micro-Climate Nursery
-
-COMP50069 – Hardware, Microcontrollers and Sensors
 
 ## Scenario
 Scenario 2 – Automated Commercial Micro-Climate Nursery
